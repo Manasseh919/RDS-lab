@@ -1,4 +1,4 @@
- E-Commerce Analytics API
+# E-Commerce Analytics API
 
 A robust Express.js API for generating business intelligence reports from e-commerce data. This service provides endpoints for analyzing customer spending, sales trends, product performance, and more.
 
@@ -159,6 +159,6 @@ npm install -D nodemon
 npm run dev
 ```
 
+## License
 
-
-Api documentation - https://documenter.getpostman.com/view/19693160/2sB2j69ASy
+[MIT](LICENSE)
